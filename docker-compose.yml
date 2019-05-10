@@ -332,6 +332,7 @@ services:
         - ${MYSQL_ENTRYPOINT_INITDB}:/docker-entrypoint-initdb.d
       ports:
         - "${MYSQL_PORT}:3306"
+      command: "--innodb_use_native_aio=0"
       networks:
         - backend
 
