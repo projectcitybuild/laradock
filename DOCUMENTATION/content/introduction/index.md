@@ -20,6 +20,10 @@ Supports a variety of useful Docker Images, pre-configured to provide a wonderfu
 <a name="sponsors"></a>
 ## Sponsors
 
+<!-- Golden Sponsors -->
+<a href="https://edubirdie.com/?ref=Laradock" target="_blank"><img width="220px" src="https://raw.githubusercontent.com/laradock/laradock/master/.github/home-page-images/sponsor-1.png" alt="Writing essays service Edubirdie"></a>
+
+<!-- OpenCollective Sponsors -->
 <a href="https://opencollective.com/laradock/sponsor/0/website" target="_blank"><img src="https://opencollective.com/laradock/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/laradock/sponsor/1/website" target="_blank"><img src="https://opencollective.com/laradock/sponsor/1/avatar.svg"></a>
 <a href="https://opencollective.com/laradock/sponsor/2/website" target="_blank"><img src="https://opencollective.com/laradock/sponsor/2/avatar.svg"></a>
